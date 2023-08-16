@@ -9,7 +9,7 @@ This project is a job listing page built with React and Tailwind CSS. The challe
 
 ## Demo
 
-You can view a live demo of the project here: ![Demo Link]
+You can view a live demo of the project here: [Link](https://static-job-listings-master-azr-arch.vercel.app/)
 
 ## Features
 
