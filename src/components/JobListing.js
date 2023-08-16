@@ -55,7 +55,7 @@ const JobListing = () => {
     />
   ));
   return (
-    <div className="relative flex flex-col items-center justify-center gap-[40px]">
+    <div className="relative flex flex-col items-center justify-center gap-[40px] pb-6">
       {filterItems.length > 0 && (
         <Filter
           handleRemove={removeFilter}
