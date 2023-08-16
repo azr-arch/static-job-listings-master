@@ -2,18 +2,14 @@
 
 ![Design preview for the Job listings with filtering coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-Sure! Here's a README for your frontend project that you can use as a starting point:
 
 # Frontend Job Listing Page
 
 This project is a job listing page built with React and Tailwind CSS. The challenge was to build out the page and get it looking as close to the design as possible.
 
-# Demo
-You can view a live demo of the project here: [Demo Link]
+## Demo
+
+You can view a live demo of the project here: ![Demo Link]
 
 ## Features
 
